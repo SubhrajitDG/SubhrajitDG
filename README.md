@@ -1,4 +1,10 @@
-### Hi there 👋
+<!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SubhrajitDG&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)-->
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi, I'm Subhrajit Dasgupta</h1>
+<h3 align="center">Web Developer @ ThumbStack Tech | Programmer | Tech Enthusiast | Developer</h3>
 
 <!--
 **SubhrajitDG/SubhrajitDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,python,html,css,c,cpp,csharp,xml,json,mysql,powershell,visualbasic,x86,sass,markdown&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
