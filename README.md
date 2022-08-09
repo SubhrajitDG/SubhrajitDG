@@ -3,8 +3,10 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi, I'm Subhrajit Dasgupta</h1>
-<h3 align="center">Web Developer @ ThumbStack Tech | Programmer | Tech Enthusiast | Developer</h3>
+<h1 align="center">Hi, I'm Subhrajit Dasgupta <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50" align="center"></h1>
+
+
+<h3 align="center">Web Developer @ ThumbStack Tech | Developer | Programmer | Tech Enthusiast</h3>
 
 <!--
 **SubhrajitDG/SubhrajitDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
