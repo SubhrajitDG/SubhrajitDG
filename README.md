@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Subhrajit Dasgupta <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50" align="center"></h1>
 
 
-<h3 align="center">Web Developer @ ThumbStack Tech | Developer | Programmer | Tech Enthusiast</h3>
+<h3 align="center">Senior Engineer @ Khyaal Inc, Mumbai | Developer | Programmer | Tech Enthusiast</h3>
 
 <!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,python,html,css,c,cpp,csharp,xml,json,mysql,powershell,visualbasic,x86,sass,markdown&includeNames=true)](https://github.com/Jurredr/github-widgetbox)-->
 
